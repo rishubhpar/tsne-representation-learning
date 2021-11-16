@@ -1,0 +1,18 @@
+Epochs: 200, MNIST
+
+Npoints = 600
+scratch: 0.75, fine-tuning: 0.78
+
+Npoins = 200
+scratch: 0.28, fine-tune: 0.65
+
+Npoints = 100
+scratch: 0.26, fine-tune: 0.55
+
+Npoints = 50
+scratch: 0.19, fine-tune: 0.49
+
+Npoints = 20
+random:0.12, fine-tune: 0.19
+
+Epoch: 200, CIFAR10
